@@ -38,6 +38,12 @@ Hands-on Tech Lead with 15+ years of experience crafting exceptional web and hyb
 
 ---
 
+### 🛠️ **Personal Projects**
+
+* [**BombLikeApps**](https://bomblikeapps.com) — My personal app portfolio.
+
+---
+
 ### 🏆 **Certifications**
 
 * *[*Databricks Certified Generative AI Engineer Associate*](https://credentials.databricks.com/3224d5de-5f41-4733-988a-baf6957ffbd5#acc.baYdfn5W)*
